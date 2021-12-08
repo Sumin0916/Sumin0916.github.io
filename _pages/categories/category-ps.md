@@ -1,11 +1,8 @@
 ---
 title: "Problem Solving"
-layout: archive
+layout: category
 permalink: categories/probelm-solving
+taxonomy: PS
 author_profile: true
 sidebar_main: true
 ---
-
-
-{% assign posts = site.categories.PS %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
