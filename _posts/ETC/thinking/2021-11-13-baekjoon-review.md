@@ -4,13 +4,13 @@ title:  "백준 300문제 달성 후기"
 categories:
   - Thinking
 tags:
-  - [PS, BOJ]
+  - [PS, BOJ, Review]
 
 toc: true
 toc_sticky: true
 
-date: 2021-12-09
-last_modified_at: 2021-12-09
+date: 2021-11-13
+last_modified_at: 2021-11-13
 ---
 
 어느 날 프로필을 들어가서 푼 문제수를 확인했을 때 푼 문제 수가 280개였다 100문제, 200문제 때는 그냥 넘어갔지만 이번 300문제는 그냥 넘어가지 말고 내 생각을 다시 한번 정리하며 앞으로 어떻게 PS 연습을 계속 이어나갈지 생각해보기로 했다.
