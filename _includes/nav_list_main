@@ -30,11 +30,11 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">그 외</span>
+        <span class="nav__sub-title">ETC</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Life" %}
-                        <li><a href="/categories/life" class="">일상 (with C++) ({{category[1].size}})</a></li>
+                    {% if category[0] == "Thinking" %}
+                        <li><a href="/categories/thinking" class="">생각 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
