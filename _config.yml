@@ -216,6 +216,13 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/teaching.md         # 강의(Teaching) 페이지 제외
+  - _pages/profiles.md         # 피플/프로필(People) 페이지 제외
+  - _pages/repositories.md     # 깃허브 레포지토리 카드 페이지 제외
+  - _pages/dropdown.md         # 상단 서브메뉴(Dropdown/Submenus) 샘플 페이지 제외
+  - _books/                    # 서브메뉴 안에 들어있던 책장 데이터 폴더 제외
+  - _teachings/                # 티칭 데이터 폴더 제외
+  - _pages/publications.md     # 출판 탭 자체도 숨기기
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
