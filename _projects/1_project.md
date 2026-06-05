@@ -62,8 +62,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+To make images responsive, add `img-fluid` 한국어 테스트, 해당 프로젝트에는 SO ARM101 ACT 모델 적용 과정을 기재할 예정
 
 {% raw %}
 
