@@ -122,7 +122,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Sumin-Kang # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -223,6 +223,11 @@ exclude:
   - _books/ # 서브메뉴 안에 들어있던 책장 데이터 폴더 제외
   - _teachings/ # 티칭 데이터 폴더 제외
   - _pages/publications.md # 출판 탭 자체도 숨기기
+
+  - _projects/examples/
+  - _news/examples/
+  - _posts/examples/
+
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
@@ -348,8 +353,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sumin]
+  first_name: [Kang, K.]
 
   style: apa
   locale: en
