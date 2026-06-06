@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Department of Electrical and Electronic Engineering | <a href='https://www.yonsei.ac.kr/sites/en_sc/index.do'><i>Yonsei University</i></a>.
 
 profile:
   align: right
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! Please note that this site is currently a work in progress. Some sections may still contain placeholder text from the template while I'm actively working on it.
+I am a junior undergraduate student whose research interests lie in ML/AI, specifically focusing on agentic AI and reinforcement learning.
+
+Lately, I’ve been fascinated by robot learning, which led me to carry out [a project](/projects/1_project/) implementing a pick-and-place task via imitation learning with a robot arm (SO-ARM101).
+
+I am currently looking for an undergraduate intern position to further dive into this field.
