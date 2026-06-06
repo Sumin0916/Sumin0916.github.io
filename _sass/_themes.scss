@@ -43,19 +43,24 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  //   #light-toggle-system {
+  //     padding-left: 10px;
+  //     padding-top: 12px;
+  //     display: block;
+  //   }
+
+  /* 기존 아이콘 설정들 다 지우고 아래 코드로 덮어쓰기 */
   #light-toggle-system {
+    display: none !important;
+  }
+  #light-toggle-dark {
+    display: block !important;
     padding-left: 10px;
     padding-top: 12px;
-    display: block;
-  }
-
-  #light-toggle-dark {
-    display: none;
-  }
-
+  } /* 라이트모드: 달 보이기 */
   #light-toggle-light {
-    display: none;
-  }
+    display: none !important;
+  } /* 라이트모드: 해 숨기기 */
 
   .repo-img-light {
     display: block;
@@ -126,14 +131,13 @@ html[data-theme-setting="dark"] {
   }
 
   #light-toggle-dark {
+    display: none !important;
+  } /* 다크모드: 달 숨기기 */
+  #light-toggle-light {
+    display: block !important;
     padding-left: 10px;
     padding-top: 12px;
-    display: block;
-  }
-
-  #light-toggle-light {
-    display: none;
-  }
+  } /* 다크모드: 해 보이기 */
 
   #back-to-top {
     color: var(--global-back-to-top-text-color);
