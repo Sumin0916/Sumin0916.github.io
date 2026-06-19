@@ -1,13 +1,13 @@
 ---
 layout: post
-title: SO-ARM101 프로젝트 일지 1 (HW - Teleop)
+title: SO-ARM101 프로젝트 (HW - Teleop)
 date: 2026-05-29 01:59:00
-description: 오픈소스 로봇팔 SO-ARM101 하드웨어 세팅부터 텔레오퍼레이션까지 과정
+description: 로봇팔 세팅부터 텔레오퍼레이션까지 과정
 tags: so-arm101
 categories: studies
 thumbnail: assets/img/so-arm101/Follower_Arm_assembly.png
 related_publications: false
-giscus_comments: true
+giscus_comments: false
 ---
 
 ### 1. 하드웨어 준비 및 3D 프린팅
