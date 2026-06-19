@@ -29,6 +29,6 @@ latest_posts:
 
 I am a junior undergraduate student whose research interests lie in ML/AI, specifically focusing on agentic AI and reinforcement learning.
 
-Lately, I’ve been fascinated by robot learning, which led me to carry out [a project](/projects/1_project/) implementing a pick-and-place task via imitation learning with a robot arm (SO-ARM101).
+Lately, I’ve been fascinated by robot learning, which led me to carry out [a project](/projects/SO-ARM101/) implementing a pick-and-place task via imitation learning with a robot arm (SO-ARM101).
 
 I am currently looking for an undergraduate intern position to further dive into this field.
