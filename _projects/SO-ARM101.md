@@ -4,7 +4,7 @@ title: SO-ARM101 Project
 description: ACT-based pick-and-place experiment with a low-cost robot arm
 img: assets/img/so-arm101/thumb.png
 importance: 1
-category: ongoing
+category: archived
 related_publications: false
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: F1TENTH Project
 description: Applying a 2D LiDAR-based end-to-end driving model to F1TENTH Gym with ROS 2
 img: assets/img/f1tenth/thumb.png
-importance: 2
+importance: 3
 category: archived
 related_publications: true
 ---
