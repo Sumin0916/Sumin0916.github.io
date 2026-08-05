@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a junior undergraduate student whose research interests in ML/AI, with a particular focus on agentic AI and reinforcement learning.
+I am a junior undergraduate student interested in machine learning and artificial intelligence, particularly agentic AI and reinforcement learning. 
 
-Lately, I’ve been fascinated by robot learning, which led me to carry out [a project](/projects/SO-ARM101/) implementing a pick-and-place task via imitation learning with an SO-ARM101 robot arm.
-
-I am currently working as an undergraduate research intern at [DILLab](https://dil.yonsei.ac.kr/), Yonsei University.
+I am currently an undergraduate research intern at [DILLab](https://dil.yonsei.ac.kr/) at Yonsei University. 
